@@ -14,8 +14,3 @@
 ### 
 
  ![Snake animation](https://github.com/DEVGXIIX/DEVGXIIX/blob/output/github-contribution-grid-snake.svg)
-
- ### Discord Community:
- 
- <a href="https://discord.gg/g2DNTCen">
-    <img src="https://img.shields.io/badge/chat-on%20discord-7289DA.svg" alt="Discord" />

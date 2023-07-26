@@ -1,5 +1,5 @@
 # 👋 Hello World! Welcome to my Github profile.
-## My nickname is GXIIX!
+## GXIIX is the nickname!
   
 ### Tools and Technologies:
 

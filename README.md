@@ -1,8 +1,10 @@
+---
+
 ![Cyber Security GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHBud3hyNmgwZzFsZmN3bm52ejFtb25tZGlnbmF6dTZvcHk1ZDFrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4dt6rXq6nABilHTYM/giphy.gif)
 
 ---
 
-# 🛡️💀 [GXIIX]
+# 💀 [GXIIX] 💀
 ## 🔐💻 Ethical Hacker // Security Researcher // CTF Player
 
 🛡️ **Certs & Badges**:
@@ -75,8 +77,6 @@
 ---
 
 ##### 🎌 Connect(S):
-<p align="left">
-<a href="https://stackoverflow.com/users/21585441" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21585441" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@devgxiix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@devgxiix" height="30" width="40" /></a>
-<a (https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) /></a>
-</p>
+
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21585441)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@devgxiix)

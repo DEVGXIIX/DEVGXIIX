@@ -5,7 +5,7 @@
 ---
 
 # 💀 [GXIIX] 💀
-## 🔐💻 Ethical Hacker // Security Researcher // CTF Player
+## 🔐💻 Ethical Hacker // Security Researcher // Python Developer
 
 🛡️ **Certs & Badges**:
 - OSCP (loading..) 🏆

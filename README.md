@@ -8,7 +8,6 @@
 ## 🔐💻 Ethical Hacker // Security Researcher // Python Developer
 
 🛡️ **Certs & Badges**:
-- OSCP (loading..) 🏆
 - Hack The Box (Pro Labs) 🔥
 - TryHackMe Top 15 (2020-2022) 🥇
 
